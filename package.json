@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-backlink-header-sort",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Sort backlinks by header, this is useful for seeing all of the references to a specific header, like a Bible verse",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
